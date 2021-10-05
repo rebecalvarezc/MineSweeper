@@ -1,4 +1,4 @@
- #¡Minesweeper Game!
+ # ¡Minesweeper Game!
 
 This program creates an interactive Minesweeper game.
 
